@@ -1,0 +1,5 @@
+pluginname=TouchPunchPlugin
+pluginclassname=TouchPunch
+version=1.0
+origin=data-quest
+description=Erlaubt Drag&Drop events für Tablets oder Smartphones. Das ist absolut wichtig, um zum Beispiel Prioritätswahlen bei Anmeldeverfahren durchführen zu können. Dieses Plugin kann also als Hotfix dafür gelten.
